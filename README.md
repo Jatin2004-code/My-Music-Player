@@ -2,7 +2,7 @@
 
 A clean and elegant web-based music player designed for a seamless and immersive listening experience. It's a modern, front-end application built with core web technologies.
 
-**🔴 Live Demo:** Coming Soon!
+**🔴 Live Demo:** https://jatin2004-code.github.io/My-Music-Player/
 
 ---
 
