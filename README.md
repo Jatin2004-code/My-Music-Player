@@ -10,7 +10,7 @@ A clean and elegant web-based music player designed for a seamless and immersive
 
 
 
-| Desktop View | Mobile View |
+| Desktop View 1 | Desktop View 2 |
 | :---: | :---: |
 | ![Desktop Screenshot](img/ss1.jpg) | ![Mobile Screenshot](img/ss2.jpg) |
 
